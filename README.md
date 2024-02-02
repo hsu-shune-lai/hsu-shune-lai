@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 💬 Ask me about **Reactjs,TypeScript**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **hsushunelai.se@gmail.com**
 
